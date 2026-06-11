@@ -1,0 +1,14 @@
+readxl
+dplyr
+lubridate
+ggplot2
+tsibble
+forecast
+tseries
+tidyr
+reshape2
+scales
+zoo
+hexbin
+writexl
+stringr
